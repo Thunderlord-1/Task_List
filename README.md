@@ -1,4 +1,4 @@
-# To-Do-List Using HTML, CSS & JavaScript
+# Task_List Using HTML, CSS & JavaScript
 
 The task list I had created has a beautiful UI, the user can add a to-do by filling the input and hit ENTER, after that he can rather check the task when it's done, or remove it using the delete button.
 
